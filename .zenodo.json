@@ -1,0 +1,15 @@
+{
+  "upload_type": "software",
+  "title": "Water rights markets fail to price scarcity in Mediterranean Chile: data and analysis code",
+  "description": "Data and reproducible analysis pipeline for a study of whether water rights prices carry a hydrological scarcity signal in Mediterranean Chile. Includes construction of the Standardized Precipitation Index from the 1979-2020 record, the k-nearest-neighbour spatial weight matrix, maximum likelihood estimation of a dynamic spatial Durbin model, the LeSage and Pace effects decomposition, and Monte Carlo scenario projection under SSP1-2.6 and SSP5-8.5.",
+  "creators": [
+    {"name": "Wolff, Felipe", "affiliation": "Universidad San Sebastian; Universidad Austral de Chile"},
+    {"name": "Roco, Lisandro", "affiliation": "Universidad San Sebastian"},
+    {"name": "Ometto, Jean Pierre", "affiliation": "Instituto Nacional de Pesquisas Espaciais"},
+    {"name": "Samaniego, Horacio", "affiliation": "Universidad Austral de Chile"}
+  ],
+  "keywords": ["water markets", "water rights", "spatial econometrics", "drought", "Chile", "climate scenarios"],
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.1"
+}
