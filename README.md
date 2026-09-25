@@ -16,7 +16,7 @@ $^4$ Laboratorio de Ecoinformática, Instituto de Conservación, Biodiversidad y
 
 **Site:** https://horaciosamaniego.github.io/chile-water-rights-scarcity/
 
-<img width="193" height="20" alt="image" src="https://github.com/user-attachments/assets/d5743765-4f6c-472e-b71d-aab12c248b84" />
+<a href="https://doi.org/10.5281/zenodo.22920222"><img width="193" height="20" alt="image" src="https://github.com/user-attachments/assets/d5743765-4f6c-472e-b71d-aab12c248b84" /></a>
 
 
 ---
